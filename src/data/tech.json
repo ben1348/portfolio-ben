@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "title": "Frontend",
+      "skills": [
+        { "name": "Angular", "level": 2, "icon": "skill-icons:angular-dark" },
+        { "name": "React", "level": 1, "icon": "skill-icons:react-dark" },
+        { "name": "TypeScript", "level": 2, "icon": "skill-icons:typescript" },
+        { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
+        { "name": "HTML", "level": 3, "icon": "skill-icons:html" },
+        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
+        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+      ]
+    },
+    {
+      "title": "Backend & Devops Tools",
+      "skills": [
+        { "name": "Node.js", "level": 2, "icon": "skill-icons:nodejs-dark" },
+        { "name": "Express", "level": 2, "icon": "skill-icons:expressjs-dark" },
+        { "name": "Flask", "level": 2, "icon": "devicon:flask" },
+        { "name": "FastAPI", "level": 1, "icon": "devicon:fastapi" },
+        { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
+        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+        { "name": "Proxmox", "level": 2, "icon": "devicon:proxmox-wordmark" },
+        { "name": "Ansible", "level": 2, "icon": "devicon:ansible" },
+        { "name": "Terraform", "level": 2, "icon": "skill-icons:terraform-dark" },
+        { "name": "Graphana", "level": 2, "icon": "devicon:grafana" }
+      ]
+    },
+    {
+      "title": "Database",
+      "skills": [
+        { "name": "PostgreSQL", "level": 1, "icon": "devicon:postgresql" },
+        { "name": "MariaDB", "level": 2, "icon": "devicon:mariadb" },
+        { "name": "Firebase", "level": 2, "icon": "devicon:firebase" }
+      ]
+    }
+  ]
+}

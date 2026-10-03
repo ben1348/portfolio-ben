@@ -1,0 +1,29 @@
+[
+  {
+    "title": "CrossTalk",
+    "description": "Enterprise network project carried out during a dedicated network week at EPHEC. Designed and set up a corporate network infrastructure as a team. Took on responsibilities within the group and worked to a tight deadline.",
+    "images": ["crosstalk logo.png"],
+    "tech": ["Proxmox", "Pfsense", "Graphana"],
+    "platforms": ["web"],
+    "link": "https://github.com/ben1348/CrossTalk",
+    "category": "Course at EPHEC"
+  },
+  {
+    "title": "HoneyCorr",
+    "description": "Automated honeypot deployment with OpenTofu, Ansible and Proxmox. Cowrie segmented by VLAN.",
+    "images": ["honeycorr.png","IMG_3872.png"],
+    "tech": ["Proxmox", "Ansible", "Terraform", "Github Actions", "Cowrie"],
+    "platforms": ["web"],
+    "link": "https://github.com/ben1348/HoneyCorr_TFE",
+    "category": "test for TFE Ephec"
+  },
+  {
+    "title": "Dev-Web-2025",
+    "description": "A web development project for the 2025 school year.",
+    "images": ["dev-web-2025.png"],
+    "tech": ["Express.js", "Node.js", "MariaDB", "Angular", "TypeScript"],
+    "platforms": ["web"],
+    "link": "https://github.com/Akanaifu/Dev-Web-2024",
+    "category": "cours Dev Web 2025"
+  }
+]

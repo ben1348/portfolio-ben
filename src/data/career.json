@@ -1,0 +1,19 @@
+[
+  {
+    "company": "EPHEC",
+    "url": "https://www.ephec.be/formations/haute-ecole/bachelier-en-technologies-de-linformatique",
+    "role": "Bachelor's Student in Information Technology",
+    "period": "Sep 2022 - Present",
+    "type": "Student",
+    "description": "Broad training across IT: software development, web and mobile apps, databases, systems and networks, and electronics. Learned to design, build and deploy applications, and to manage the infrastructure they run on. Worked on many projects, alone and in teams.",
+    "skills": ["Web Development", "Databases", "Python", "Docker", "Virtualization", "Networking"]
+  },
+  {
+    "company": "STRL Luc Antoons",
+    "role": "Electrical Technician",
+    "period": "Aug 2021 - Sep 2022",
+    "type": "Full time job",
+    "description": "Installed and repaired electrical systems in residential homes. Wired outlets, lighting and distribution boards. Read plans and wiring diagrams. Followed strict safety standards (RGIE). Worked in a team on site and dealt directly with clients.",
+    "skills": ["Electrical Installation", "Troubleshooting", "Reading Wiring Diagrams", "RGIE Standards", "Teamwork", "Customer Relations"]
+  }
+]

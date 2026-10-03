@@ -1,0 +1,92 @@
+{
+  "name": "Benjamin Arens",
+  "photoUrl": "/portfolio-ben/me_avatar_512.jpg",
+  "location": "Wavre, Belgium",
+  "availability": "Available for hire",
+  "description": "I am looking for an internship to build my experience in DevSecOps and deepen my understanding of its challenges, with a particular focus on security and infrastructure. I want to learn from and collaborate with experienced professionals in the field, while developing my skills in infrastructure and security.",
+  "descriptionHtml": "I'm Ben, a student in IT and an aspiring Junior DevOps engineer based in Belgium. I believe in <span class='text-accent font-bold'>Automation</span>. I build and run infrastructure with Proxmox, Ansible, OpenTofu and Linux. I care about clean, reproducible setups and I enjoy turning ideas into working products. My goal is simple: create <span class='text-accent font-bold'>Efficient</span>, <span class='text-accent font-bold'>High-impact</span> solutions that are easy to maintain.",
+  "webpageTitle": "Benjamin Arens | Students at the Ephec",
+  "resumeUrl": "https://canva.link/b52oxv4ehvdvzit",
+
+  "_seo_comment": "SEO fields — update these along with your personal info for best search engine visibility.",
+  "jobTitle": "junior DevOps Engineer",
+  "keywords": "Benjamin Arens, devops engineer, angular, express, web site, portfolio",
+  "siteUrl": "https://your-domain.com",
+  "lang": "en",
+  "twitterHandle": "",
+  "ogImageUrl": "/placeholder.jpeg",
+
+  "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/ben1348",
+      "icon": "mdi:github",
+      "label": "View Profile",
+      "showInContact": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/benjamin-arens-0786042b7",
+      "icon": "mdi:linkedin",
+      "label": "Connect",
+      "showInContact": true
+    },
+    {
+      "name": "Leetcode",
+      "url": "https://leetcode.com/u/ben1348/",
+      "icon": "devicon-plain:leetcode",
+      "label": "View Profile",
+      "showInContact": false
+    },
+    {
+      "name": "Behance",
+      "url": "#",
+      "icon": "devicon-plain:behance",
+      "label": "View Profile",
+      "showInContact": false
+    },
+    {
+      "name": "Email",
+      "url": "mailto:abenpro@outlook.fr",
+      "icon": "mdi:email",
+      "label": "Send Email",
+      "showInContact": true
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://wa.me/32456351531",
+      "icon": "mdi:whatsapp",
+      "label": "Send Message",
+      "showInContact": true
+    },
+    {
+      "name": "Facebook",
+      "url": "#",
+      "icon": "mdi:facebook",
+      "label": "View Profile",
+      "showInContact": false
+    },
+    {
+      "name": "Messenger",
+      "url": "#",
+      "icon": "mdi:facebook-messenger",
+      "label": "Send Message",
+      "showInContact": true
+    },
+    {
+      "name": "Instagram",
+      "url": "#",
+      "icon": "mdi:instagram",
+      "label": "View Profile",
+      "showInContact": false
+    },
+    {
+      "name": "Twitter",
+      "url": "#",
+      "icon": "mdi:twitter",
+      "label": "View Profile",
+      "showInContact": false
+    }
+  ]
+}
