@@ -6,7 +6,7 @@
     "tech": ["Proxmox", "Pfsense", "Graphana"],
     "platforms": ["web"],
     "link": "https://github.com/ben1348/CrossTalk",
-    "category": "Course at EPHEC"
+    "category": "EPHEC"
   },
   {
     "title": "HoneyCorr",
@@ -15,7 +15,7 @@
     "tech": ["Proxmox", "Ansible", "Terraform", "Github Actions", "Cowrie"],
     "platforms": ["web"],
     "link": "https://github.com/ben1348/HoneyCorr_TFE",
-    "category": "test for TFE Ephec"
+    "category": "Ephec"
   },
   {
     "title": "Dev-Web-2025",
@@ -24,6 +24,15 @@
     "tech": ["Express.js", "Node.js", "MariaDB", "Angular", "TypeScript"],
     "platforms": ["web"],
     "link": "https://github.com/Akanaifu/Dev-Web-2024",
-    "category": "cours Dev Web 2025"
+    "category": "Ephec"
+  },
+  {
+    "title": "Solveur-Rubik-s-Cube",
+    "description": "A embedded system project to solved a cube using python library for the logic and C++ and arduino to move the cube",
+    "images":["cube.png"],
+    "tech":["python", "C++", "Arduino"],
+    "platforms": ["programmation"],
+    "link":"https://github.com/ben1348/Solveur-Rubik-s-Cube",
+    "category": "Ephec"
   }
 ]
